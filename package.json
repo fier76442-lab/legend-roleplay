@@ -1,0 +1,6 @@
+{
+  "name":"legend-roleplay-discord-bot",
+  "private":true,
+  "scripts":{"start":"node index.js"},
+  "dependencies":{"discord.js":"^14.24.2"}
+}
